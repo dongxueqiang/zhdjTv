@@ -5,7 +5,7 @@
     android:layout_height="match_parent">
 
 
-    <com.zhdj.zhdj.view.weight.FullScreen
+    <com.zhdj.zhdjtv.view.weight.FullScreen
         android:id="@+id/video_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

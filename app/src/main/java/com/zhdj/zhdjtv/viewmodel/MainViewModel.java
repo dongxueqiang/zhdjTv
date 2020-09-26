@@ -1,9 +1,9 @@
 package com.zhdj.zhdjtv.viewmodel;
 
 import android.app.Application;
+import android.arch.lifecycle.MutableLiveData;
+import android.support.annotation.NonNull;
 
-import androidx.annotation.NonNull;
-import androidx.lifecycle.MutableLiveData;
 
 import com.zhdj.zhdjtv.base.BaseViewModel;
 import com.zhdj.zhdjtv.model.BaseModel;
